@@ -1,0 +1,19 @@
+Objective: I have some shares which I have kept for a longer duration. Now I dont want any weekly updates but I want to see updates on monthly basis.
+The information can be-
+- How are the shares trending for my portfolio
+- Any news related to my portfolio, so that I can take calls accordingly
+Ideally I want to see this information on my mail box, so that I can refer them at my convinience.
+
+Project Structure
+
+- Analysis of protfolio that I have
+    - Data for the stock that I hold in my portfolio
+        - A location through which I can collect the stock data on a FOC basis
+    - Analysis done on the data
+        - The analysis should ideally be a creative visualization, so that reading effect could be minimized
+    - Some news articles (Url's) which could be scrapped from the internet
+
+- The entire information to be shared onmy mail
+    - Mail to be triggered every 1 st of the Month
+    
+    
