@@ -12,6 +12,7 @@ Project Structure
     - Analysis done on the data
         - The analysis should ideally be a creative visualization, so that reading effect could be minimized
     - Some news articles (Url's) which could be scrapped from the internet
+    - I should also compare my brought price with the running price so that the advantage in selling/not selling can be compared
 
 - The entire information to be shared onmy mail
     - Mail to be triggered every 1 st of the Month
